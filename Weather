@@ -1,0 +1,2 @@
+var weather = "41"
+if (weather < 41)
